@@ -11,8 +11,8 @@ Needed toolkit:
 - keras
 
 # Instruction For CNN.py
-1. Please seperate your img by category folder , and put all the folder into a folder.
-For example,it's structure should like this :
+1. Please seperate your img by category folder , and put all the folder into one folder.
+For example,the structure should like this :
 
 ![image](https://github.com/zkV1210/CNN_For_Monkey/blob/main/ex1.jpg)
 
