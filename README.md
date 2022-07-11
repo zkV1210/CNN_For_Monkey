@@ -14,7 +14,7 @@ Needed toolkit:
 1. Please seperate your img by category folder , and put all the folder into a folder.
 For example,it's structure should like this :
 
-![image]("./ex1.jpg")
+![image]("/assets/images/ex1.jpg")
 
 2. When you see it print "Enter your Data Folder path,better use relative path", please type in your folder that contain all the category folders,like the "img_data" showed above.
 
