@@ -3,22 +3,18 @@ This project provides a simple CNN training set and a predict function,It is des
 
 # Environment
 Needed toolkit:
-    os
-    numpy
-    cv2
-    matplotlib.pyplot
-    tensorflow
-    keras
+- os
+- numpy
+- cv2
+- matplotlib.pyplot
+- tensorflow
+- keras
 
 # Instruction For CNN.py
 1. Please seperate your img by category folder , and put all the folder into a folder.
 For example,it's structure should like this :
 
-img_data ------category1 ---img1,img2,img3
-        ------category2 ---img1,img2,img3
-        ------category3 ---img1,img2,img3
-
-the rest instruction below will use this path to demonstrate.
+![image]("./ex1.jpg")
 
 2. When you see it print "Enter your Data Folder path,better use relative path", please type in your folder that contain all the category folders,like the "img_data" showed above.
 
@@ -37,8 +33,8 @@ For example, if you enter "./folder/result",then it will save all element of the
 
 # Notification
 
-1.The loss_result.jpg in the result folder just means to show the rough tendency of loss and accuracy value, it's not necessary .
+1. The loss_result.jpg in the result folder just means to show the rough tendency of loss and accuracy value, it's not necessary .
 
-2.The info.txt in the result folder will use in predict.py.
+2. The info.txt in the result folder will use in predict.py.
 
 
